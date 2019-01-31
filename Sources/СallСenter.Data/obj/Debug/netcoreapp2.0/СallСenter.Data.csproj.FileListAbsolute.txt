@@ -1,0 +1,15 @@
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.csproj.CoreCompileInputs.cache
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.AssemblyInfoInputs.cache
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.AssemblyInfo.cs
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.csprojResolveAssemblyReference.cache
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\СallСenter.Data.deps.json
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\СallСenter.Data.dll
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\СallСenter.Data.pdb
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\СallСenter.Core.dll
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\СallСenter.Core.pdb
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.csproj.CopyComplete
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.dll
+F:\repos\github\Call-center\Sources\СallСenter.Data\obj\Debug\netcoreapp2.0\СallСenter.Data.pdb
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\AutoMapper.dll
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\AutoMapper.pdb
+F:\repos\github\Call-center\Sources\СallСenter.Data\bin\Debug\netcoreapp2.0\AutoMapper.xml

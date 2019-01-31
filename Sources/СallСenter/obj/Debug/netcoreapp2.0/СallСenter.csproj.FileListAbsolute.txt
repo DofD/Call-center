@@ -20,3 +20,6 @@ F:\repos\github\Call-center\Sources\СallСenter\obj\Debug\netcoreapp2.0\СallС
 F:\repos\github\Call-center\Sources\СallСenter\obj\Debug\netcoreapp2.0\СallСenter.AssemblyInfo.cs
 F:\repos\github\Call-center\Sources\СallСenter\obj\Debug\netcoreapp2.0\СallСenter.dll
 F:\repos\github\Call-center\Sources\СallСenter\obj\Debug\netcoreapp2.0\СallСenter.pdb
+F:\repos\github\Call-center\Sources\СallСenter\bin\Debug\netcoreapp2.0\СallСenter.Core.dll
+F:\repos\github\Call-center\Sources\СallСenter\bin\Debug\netcoreapp2.0\СallСenter.Core.pdb
+F:\repos\github\Call-center\Sources\СallСenter\obj\Debug\netcoreapp2.0\СallСenter.csproj.CopyComplete
