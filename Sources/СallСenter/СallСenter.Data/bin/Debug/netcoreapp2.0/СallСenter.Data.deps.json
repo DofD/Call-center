@@ -10,7 +10,8 @@
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": "2.2.1",
           "Microsoft.EntityFrameworkCore.Sqlite.Design": "1.1.6",
-          "СallСenter.Core": "1.0.0"
+          "СallСenter.Core": "1.0.0",
+          "AutoMapper": "8.0.0.0"
         },
         "runtime": {
           "СallСenter.Data.dll": {}
@@ -704,6 +705,11 @@
         "runtime": {
           "СallСenter.Core.dll": {}
         }
+      },
+      "AutoMapper/8.0.0.0": {
+        "runtime": {
+          "AutoMapper.dll": {}
+        }
       }
     }
   },
@@ -1233,6 +1239,11 @@
     },
     "СallСenter.Core/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AutoMapper/8.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

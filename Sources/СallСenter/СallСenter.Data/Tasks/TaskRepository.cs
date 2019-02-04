@@ -49,6 +49,7 @@ namespace СallСenter.Data.Tasks
                 taskDto.Id = id;
 
                 db.Tasks.Add(taskDto);
+                db.SaveChanges();
             }
         }
 

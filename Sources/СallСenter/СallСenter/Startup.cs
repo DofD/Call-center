@@ -1,8 +1,10 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using СallСenter.Core.Tasks;
+using СallСenter.Data.Tasks;
 
 namespace СallСenter
 {
@@ -18,7 +20,9 @@ namespace СallСenter
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<ITaskService, TaskService>();
+            services.AddTransient<ITaskService, TaskService>();
+            services.AddTransient<ITaskRepository, TaskRepository>();
+            services.AddAutoMapper();
             services.AddMvc();
         }
 

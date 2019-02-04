@@ -5,7 +5,7 @@ using СallСenter.Core.Tasks;
 
 namespace СallСenter.Tasks
 {
-    [Route("api/[controller]")]
+    [Route("v1/api/[controller]")]
     public class TasksController : Controller
     {
         private readonly ITaskService service;
@@ -40,8 +40,9 @@ namespace СallСenter.Tasks
 
         // POST api/values
         [HttpPost]
-        public void Post(TaskModel taskModel)
+        public void Post([FromBody]TaskModel taskModel)
         {
+            taskModel.Eemployee = "Eemployee";
             Task task = mapper.Map<Task>(taskModel);
             service.Add(task);
         }
