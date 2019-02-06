@@ -8,7 +8,7 @@ namespace СallСenter.Data.Tasks
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=tasks.db");
+            optionsBuilder.UseSqlite("Data Source=tasks.db");         
         }
     }
 }

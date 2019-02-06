@@ -17,3 +17,9 @@
 /Sources/ClientCenter/ClientCenter/obj
 /Sources/ClientCenter/ClientCenter/*.user
 /Sources/СallСenter/СallСenter/obj
+/Sources/СallСenter/СallСenter/bin/Debug/netcoreapp2.0
+/Sources/СallСenter/СallСenter.Core/bin/Debug/netcoreapp2.0
+/Sources/СallСenter/СallСenter.Core/obj/Debug/netcoreapp2.0/СallСenter.Core.csproj.FileListAbsolute.txt
+/Sources/СallСenter/СallСenter.Core/obj/Debug/netcoreapp2.0/СallСenter.Core.dll
+/Sources/СallСenter/СallСenter.Core/obj/Debug/netcoreapp2.0/СallСenter.Core.pdb
+/Sources/СallСenter/СallСenter.Data/bin/Debug/netcoreapp2.0
