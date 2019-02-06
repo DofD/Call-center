@@ -1,1 +1,0 @@
-F:\repos\github\Call-center\Sources\ClientCenter\ClientCenter\ClientCenter.csproj;x86
