@@ -15,3 +15,5 @@
 /Sources/СallСenter/СallСenter.Data/obj
 /Sources/ClientCenter/ClientCenter/bin
 /Sources/ClientCenter/ClientCenter/obj
+/Sources/ClientCenter/ClientCenter/*.user
+/Sources/СallСenter/СallСenter/obj
