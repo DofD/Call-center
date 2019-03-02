@@ -8,7 +8,7 @@ namespace СallСenter.Mapping
     {
         public CoreProfile()
         {
-            CreateMap<TaskModel, Task>().ConstructUsing(model => new Task(model.Name, model.Phone, model.Title, model.Body, null, model.Eemployee));
+            CreateMap<TaskAddModel, Task>().ConstructUsing(model => new Task(model.Name, model.Phone, model.Body, null, string.Empty));
         }
     }
 }

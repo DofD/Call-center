@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\repos\\github\\Call-center\\Sources\\СallСenter\\СallСenter.Core\\СallСenter.Core.csproj",
+      "projectUniqueName": "F:\\repos\\github\\DofD\\Call-center\\Sources\\СallСenter\\СallСenter.Core\\СallСenter.Core.csproj",
       "projectName": "СallСenter.Core",
-      "projectPath": "F:\\repos\\github\\Call-center\\Sources\\СallСenter\\СallСenter.Core\\СallСenter.Core.csproj",
+      "projectPath": "F:\\repos\\github\\DofD\\Call-center\\Sources\\СallСenter\\СallСenter.Core\\СallСenter.Core.csproj",
       "packagesPath": "E:\\Users\\Dmitrii\\.nuget\\packages\\",
-      "outputPath": "F:\\repos\\github\\Call-center\\Sources\\СallСenter\\СallСenter.Core\\obj\\",
+      "outputPath": "F:\\repos\\github\\DofD\\Call-center\\Sources\\СallСenter\\СallСenter.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

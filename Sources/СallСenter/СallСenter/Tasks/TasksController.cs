@@ -24,32 +24,31 @@ namespace СallСenter.Tasks
 
         // GET api/values
         [HttpGet]
-        public IEnumerable<TaskModel> Get()
+        public IEnumerable<TaskViewModel> Get()
         {
             List<Task> tasks = service.GetAllTasks();
-            return mapper.Map<List<TaskModel>>(tasks);
+            return mapper.Map<List<TaskViewModel>>(tasks);
         }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public TaskModel Get(string id)
+        public TaskViewModel Get(string id)
         {
             Task task = service.GetTask(id);
-            return mapper.Map<TaskModel>(task);
+            return mapper.Map<TaskViewModel>(task);
         }
 
         // POST api/values
         [HttpPost]
-        public void Post([FromBody]TaskModel taskModel)
+        public void Post([FromBody]TaskAddModel taskModel)
         {
-            taskModel.Eemployee = "Eemployee";
             Task task = mapper.Map<Task>(taskModel);
             service.Add(task);
         }
 
         // PUT api/values/5
         [HttpPut("{id}")]
-        public void Put(string id, [FromBody]TaskModel taskModel)
+        public void Put(string id, [FromBody]TaskAddModel taskModel)
         {
             Task task = mapper.Map<Task>(taskModel);
             service.Update(id, task);
